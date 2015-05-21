@@ -4,7 +4,6 @@ import pprint
 import psycopg2
 import datetime
 
-
 pp = pprint.PrettyPrinter(indent=4)
 DEBUG = False
 
